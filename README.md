@@ -72,8 +72,8 @@ Day-Ahead-Electricity-Load-Forecaster/
 
 1. **Clone & Navigate**:
    ```bash
-   git clone <repo_url>
-   cd electricity-load-forecaster
+   git clone https://github.com/Pratham-Chavan18/Day-Ahead-Electricity-Load-Forecaster.git
+   cd Day-Ahead-Electricity-Load-Forecaster
    ```
 
 2. **Install Dependencies**:
